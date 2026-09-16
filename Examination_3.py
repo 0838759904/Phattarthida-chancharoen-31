@@ -6,7 +6,6 @@
 
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
-score = int(input())
 score = int(input("กรอกคะแนน: "))
 
 if score >=50:
@@ -16,4 +15,4 @@ elif score <=50:
 else:
    print = "Fail"
 
-score = int(input("score: "))
+score = int(input("กรอกคะแนน, score:"))
