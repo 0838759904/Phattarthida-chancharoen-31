@@ -15,4 +15,4 @@ elif score <=50:
 else:
    print = "Fail"
 
-score = int(input("กรอกคะแนน, score:"))
+score = int(input("กรอกคะแนน: , score"))
